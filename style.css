@@ -5,8 +5,6 @@ body {
     font-family: 'Times New Roman', Times, serif;
     margin-left: 3%;
     margin-right: 3%;
-    
-
 }
 
 main{
@@ -23,13 +21,11 @@ main{
 .EDU{
     color: black;
     font-weight: 550;
-
 }
 
 .ISD{
     color: black;
     font-weight: 700;
-
 }
 
 header {
@@ -39,8 +35,6 @@ header {
     float: top;
     background-image: url("Banner.jpg");
     background-size: cover;
-    bac
-    
 }
 
 address{
