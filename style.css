@@ -1,0 +1,90 @@
+body {
+    background-color: azure;
+    /* background-image: url("fondo2.png");
+    background-size: cover; */
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 3%;
+    margin-right: 3%;
+    
+
+}
+
+main{
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+#name{
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+.EDU{
+    color: black;
+    font-weight: 550;
+
+}
+
+.ISD{
+    color: black;
+    font-weight: 700;
+
+}
+
+header {
+    text-align: center;
+    padding: 100px;
+    width: auto;
+    float: top;
+    background-image: url("Banner.jpg");
+    background-size: cover;
+    bac
+    
+}
+
+address{
+    padding: 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: white;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+
+h3 {
+    font-weight:900;
+    padding: 1px;
+    font-size: large;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    color: #900C3F;
+}
+
+h4 {
+    font-weight: 500;
+    font-size: large;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #02256f;
+}
+
+h5 {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: black;
+    margin-left: 10px;
+}
+
+#footerText{
+    color: rgb(38, 128, 0);
+    text-align: center;
+}
